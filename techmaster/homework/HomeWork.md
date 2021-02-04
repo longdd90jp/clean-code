@@ -20,17 +20,19 @@
 
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-Gõ link đến mã nguồn bài này vào đây. Đừng comment code. Nếu thực sự CleanCode thì không cần comment vẫn hiểu được.
+[link source code](https://github.com/longdd90jp/clean-code/tree/master/techmaster/homework/src/main/java/com/cleancode/homework/phan2/bai1)
 
 ### 2. Composition over Inheritance và DI
-Gõ link đến mã nguồn bài này vào đây
-
+[link source code](https://github.com/longdd90jp/clean-code/tree/master/techmaster/homework/src/main/java/com/cleancode/homework/phan2/bai2)
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
+[link file ER](https://github.com/longdd90jp/clean-code/blob/master/techmaster/homework/src/main/java/com/cleancode/homework/phan3/course_management_er.png)
 
 ## Phần 4: Thiết kế RESTful API
+[link source code cả phần 4 và phần 5](https://github.com/longdd90jp/clean-code/tree/master/techmaster/homework/src/main/java/com/cleancode/homework/restfulapi)
 
 ## Phần 5: Lập trình Restful API
+[link source code cả phần 4 và phần 5](https://github.com/longdd90jp/clean-code/tree/master/techmaster/homework/src/main/java/com/cleancode/homework/restfulapi)
 
 ## Trắc nghiệm
     - Câu 1: đáp án C.
