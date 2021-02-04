@@ -4,14 +4,18 @@
 
 ## Phần 1: Clean Code căn bản
 1. 5 mục tiêu chính của Clean Code là
-    - Mục tiêu 1
-    - Mục tiêu 2
-    - Mục tiêu 3
-    - Mục tiêu 4
-    - Mục tiêu 5
+    - Mục tiêu 1: code should be elegant, efficient, readable, simple, without duplicationss, and well-written
+    - Mục tiêu 2: offers quality and understanding when we open a class.
+    - Mục tiêu 3: anyone to find and easily understand.
+    - Mục tiêu 4: add value to the business with your code.
+    - Mục tiêu 5: maintainable.
 2. Đáp án của tôi là team C bởi vì:
     - Lý do 1: Một dự án thành không khi công số, chất lượng, deadline đúng như đã đề ra. Clean Code tuy tốt nhưng việc đưa ra sản phẩm đúng deadline là rất quan trọng.
     - Lý do 2: Không phải ban đầu sẽ Clean Code hoàn hảo, ban đấu không ai có thể nhìn ra hết, nó là quá trình xuyên suốt cả dự án hay sản phẩm.
+3. Câu trả lời:
+    - đưa ra ví dụ thực tế có trong dự án để các bạn trẻ hiểu lợi ích của việc CleanCode
+4. Đáp án: dùng đề xuất của Vân
+    - int calculateSalaryAfterYears(int initialSalary, int NthYear);
 
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
@@ -28,7 +32,7 @@ Gõ link đến mã nguồn bài này vào đây
 ## Phần 5: Lập trình Restful API
 
 ## Trắc nghiệm
-    - Câu 1: đáp án .
+    - Câu 1: đáp án C.
     - Câu 2: đáp án B. Chia làm 3 loại chính: Creational, Structural, Behavioral
     - Câu 3: đáp án D.
     - Câu 4: đáp án C.
@@ -51,5 +55,5 @@ Gõ link đến mã nguồn bài này vào đây
     - Câu 21: đáp án B.
     - Câu 22: đáp án B.
     - Câu 23: đáp án C.
-    - Câu 24: đáp án .
-    - Câu 25: đáp án .
+    - Câu 24: đáp án C.
+    - Câu 25: đáp án D.
