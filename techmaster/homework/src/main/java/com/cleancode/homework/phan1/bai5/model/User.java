@@ -1,4 +1,4 @@
-package com.cleancode.homework.phan2.bai5.model;
+package com.cleancode.homework.phan1.bai5.model;
 
 import org.springframework.util.CollectionUtils;
 

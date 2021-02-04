@@ -1,4 +1,4 @@
-package com.cleancode.homework.phan2.bai5;
+package com.cleancode.homework.phan1.bai5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
