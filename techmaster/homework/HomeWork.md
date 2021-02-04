@@ -16,6 +16,7 @@
     - đưa ra ví dụ thực tế có trong dự án để các bạn trẻ hiểu lợi ích của việc CleanCode
 4. Đáp án: dùng đề xuất của Vân
     - int calculateSalaryAfterYears(int initialSalary, int NthYear);
+5. [link source code](https://github.com/longdd90jp/clean-code/tree/master/techmaster/homework/src/main/java/com/cleancode/homework/phan1/bai5)
 
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
