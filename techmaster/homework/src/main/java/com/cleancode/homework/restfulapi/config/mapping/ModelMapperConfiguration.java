@@ -1,4 +1,4 @@
-package com.cleancode.homework.restfulapi.config;
+package com.cleancode.homework.restfulapi.config.mapping;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

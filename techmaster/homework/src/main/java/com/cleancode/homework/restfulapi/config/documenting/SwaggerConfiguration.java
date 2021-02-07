@@ -1,4 +1,4 @@
-package com.cleancode.homework.restfulapi.config;
+package com.cleancode.homework.restfulapi.config.documenting;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
